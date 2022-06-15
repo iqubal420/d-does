@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet  TRS TEAM")
 print
 print "Author   : Iqubal Sarkar"
 print "Facebook Group : TRS TEAM"
@@ -29,7 +29,7 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
+os.system("figlet SARKAR Fucking")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
